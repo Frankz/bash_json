@@ -12,3 +12,5 @@
 # jq length jsons/series.json
 # cat jsons/series.json | jq length
 # cat jsons/series.json | jq '.[0] | length'
+
+
